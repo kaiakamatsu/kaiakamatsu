@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kaiakamatsu, a bioinformatics major at UCSD
-- 📫 How to reach me: email kakamatsu@ucsd.edu 
+- 👋 Hi, I’m @kaiakamatsu, a Biomathematics PhD student at UCLA
+- 📫 How to reach me: email kakamatsu@g.ucla.edu
 
 <!---
 kaiakamatsu/kaiakamatsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
